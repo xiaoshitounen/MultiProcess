@@ -1,0 +1,4 @@
+include ':aidl'
+include ':messenger'
+include ':app'
+rootProject.name = "06_04_MultiProcess"
